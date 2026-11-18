@@ -37,4 +37,6 @@ Catalog: [`screenshots/catalog.jpg`](screenshots/catalog.jpg)
 
 ## Design & build
 
+Built for a real client; its source is kept in a private repository.
+
 Designed and built by **[Softburn.tech](https://softburn.tech)**.
